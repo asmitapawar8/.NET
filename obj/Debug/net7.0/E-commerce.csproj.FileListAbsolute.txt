@@ -1,0 +1,15 @@
+D:\.NET\selfpractice\.NET\E-commerce\obj\Debug\net7.0\E-commerce.csproj.AssemblyReference.cache
+D:\.NET\selfpractice\.NET\E-commerce\obj\Debug\net7.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\selfpractice\.NET\E-commerce\obj\Debug\net7.0\E-commerce.AssemblyInfoInputs.cache
+D:\.NET\selfpractice\.NET\E-commerce\obj\Debug\net7.0\E-commerce.AssemblyInfo.cs
+D:\.NET\selfpractice\.NET\E-commerce\obj\Debug\net7.0\E-commerce.csproj.CoreCompileInputs.cache
+D:\.NET\selfpractice\.NET\E-commerce\bin\Debug\net7.0\E-commerce.exe
+D:\.NET\selfpractice\.NET\E-commerce\bin\Debug\net7.0\E-commerce.deps.json
+D:\.NET\selfpractice\.NET\E-commerce\bin\Debug\net7.0\E-commerce.runtimeconfig.json
+D:\.NET\selfpractice\.NET\E-commerce\bin\Debug\net7.0\E-commerce.dll
+D:\.NET\selfpractice\.NET\E-commerce\bin\Debug\net7.0\E-commerce.pdb
+D:\.NET\selfpractice\.NET\E-commerce\obj\Debug\net7.0\E-commerce.dll
+D:\.NET\selfpractice\.NET\E-commerce\obj\Debug\net7.0\refint\E-commerce.dll
+D:\.NET\selfpractice\.NET\E-commerce\obj\Debug\net7.0\E-commerce.pdb
+D:\.NET\selfpractice\.NET\E-commerce\obj\Debug\net7.0\E-commerce.genruntimeconfig.cache
+D:\.NET\selfpractice\.NET\E-commerce\obj\Debug\net7.0\ref\E-commerce.dll
